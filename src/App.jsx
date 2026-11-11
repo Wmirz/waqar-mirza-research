@@ -12,7 +12,7 @@ const work = [
     description:
       "Studies finite-time guarantees for risk-sensitive reinforcement learning by viewing the learning dynamics through the lens of noisy power iteration.",
     tags: ["Risk-Sensitive RL", "Finite-Time Analysis", "Theory"],
-    links: [    ],
+    links: [  { label: "arXiv", url: "https://arxiv.org/abs/2611.10393" }  ],
   },
   {
     title: "Learning with Coupled Uncertainty",
