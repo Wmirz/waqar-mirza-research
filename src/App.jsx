@@ -91,7 +91,7 @@ export default function App() {
             </h1>
 
             <p className="mt-5 text-xl leading-8 text-neutral-700">
-              2nd Year PhD student at Caltech
+              3rd Year PhD student at Caltech
             </p>
 
             <div className="mt-10">
